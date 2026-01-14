@@ -43,3 +43,6 @@ flutter run
 
 ## License
 This project is for learning purposes and is not intended for commercial use.
+
+## Apk location
+build/app/outputs/flutter-apk/app-release.apk
